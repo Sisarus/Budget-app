@@ -24,6 +24,18 @@ const ExpenseItem = (props) => {
         });
     };
 
+    const decreaceAllocation = (name) => {
+        const expense = {
+            name: name,
+            cost: -10,
+        };
+
+        dispatch({
+            type: "ADD_EXPENSE",
+            payload: expense,
+        });
+    };
+
     return (
         <tr>
             <td>{props.name}</td>
@@ -45,7 +57,7 @@ const ExpenseItem = (props) => {
                 <button
                     className="btn btn-danger rounded-circle"
                     onClick={(event) =>
-                        increaseAllocation(props.name)
+                        decreaceAllocation(props.name)
                     }
                 >
                     <span className="fw-bolder">-</span>
