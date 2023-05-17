@@ -17,7 +17,7 @@ IBM is hosting a React Subject App Challenge that presents an opportunity for pa
 - Node.js
 - React
 
-## Installation
+## Setup
 
 1. Clone the repository:
 
