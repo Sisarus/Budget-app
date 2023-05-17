@@ -13,6 +13,7 @@ IBM is hosting a React Subject App Challenge that presents an opportunity for pa
 
 - Node.js
 - React
+- Bootstrap
 
 ## Setup
 
