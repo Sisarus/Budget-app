@@ -35,7 +35,7 @@ cd Budget-app
 npm install
 ```
 
-4. Open Start the application:
+4. Run the application:
 ```
 npm start
 ```
