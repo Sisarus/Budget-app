@@ -1,12 +1,9 @@
 # Budject app
 
 * [General info](#general-info)
-
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Usage](#Usage)
 * [Contact](#contact)
-
 
 ## General info
 
