@@ -7,7 +7,7 @@
 
 ## General info
 
-IBM is hosting a React Subject App Challenge that presents an opportunity for participants to showcase their skills in developing React applications.
+IBM is hosting a React Subject App Challenge that presents an opportunity for participants to showcase their skills in developing React applications. Single page web app.
 
 ## Technologies Used
 
