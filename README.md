@@ -15,8 +15,7 @@ IBM is hosting a React Subject App Challenge that presents an opportunity for pa
 ## Technologies Used
 
 - Node.js
-- MongoDB
-- Mongoose
+- React
 
 ## Installation
 
